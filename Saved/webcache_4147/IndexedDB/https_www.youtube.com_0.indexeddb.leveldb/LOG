@@ -1,5 +1,15 @@
-2023/04/20-14:57:35.890 d30 Reusing MANIFEST E:/Github/Postar/elDiabloLoco/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/20-15:19:03.867 3dcc Level-0 table #5: started
-2023/04/20-15:19:03.882 3dcc Level-0 table #5: 8053 bytes OK
-2023/04/20-15:19:03.884 3dcc Delete type=0 #3
-2023/04/20-15:19:03.885 3dcc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/10-13:46:48.659 2ca8 Reusing MANIFEST E:/Github/Postar/elDiabloLoco/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/10-13:46:48.659 2ca8 Recovering log #4
+2023/05/10-13:46:48.659 2ca8 Reusing old log E:/Github/Postar/elDiabloLoco/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/05/10-13:52:18.687 18f4 Level-0 table #8: started
+2023/05/10-13:52:18.700 18f4 Level-0 table #8: 8760 bytes OK
+2023/05/10-13:52:18.701 18f4 Delete type=0 #4
+2023/05/10-13:52:18.701 18f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/10-13:52:18.702 18f4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x90\xca\x17\xedyxB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 189 : 1
+2023/05/10-13:52:18.702 18f4 Compacting 1@1 + 1@2 files
+2023/05/10-13:52:18.703 18f4 Generated table #9@1: 41 keys, 2475 bytes
+2023/05/10-13:52:18.703 18f4 Compacted 1@1 + 1@2 files => 2475 bytes
+2023/05/10-13:52:18.704 18f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/10-13:52:18.704 18f4 Delete type=2 #5
+2023/05/10-13:52:18.704 18f4 Delete type=2 #8
+2023/05/10-13:52:18.704 18f4 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x90\xca\x17\xedyxB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 189 : 1 .. (end); will stop at (end)
