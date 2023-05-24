@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 05/12/23 12:01:16
+=======
+﻿Log file open, 05/24/23 14:51:05
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 05/24/23 14:51:05
 >>>>>>> Stashed changes
@@ -11,7 +15,11 @@ LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=8320)
+=======
+LogWindows: Started CrashReportClient (pid=12696)
+>>>>>>> Stashed changes
 =======
 LogWindows: Started CrashReportClient (pid=12696)
 >>>>>>> Stashed changes
@@ -24,10 +32,13 @@ LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
 LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : commandline="" E:\Github\Postar\elDiabloLoco\ElDiabloLoco.uproject""
 LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2965] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz"
 =======
+=======
+>>>>>>> Stashed changes
 LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Voldur\Documents\GitHub\elDiabloLoco\ElDiabloLoco.uproject""
 LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2965] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13700K"
@@ -36,6 +47,7 @@ LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : loginid="d92802f04a0e90f5529a16ad1f508f6b"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogStats: Stats thread started at 0.398872
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
@@ -60,6 +72,13 @@ LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform
 LogInit: Session CrashGUID >====================================================
          Session CrashGUID >   UECC-Windows-6A9C631E44C7810C7533AEB4B4B23D71
          Session CrashGUID >====================================================
+=======
+LogStats: Stats thread started at 1.202341
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6A9C631E44C7810C7533AEB4B4B23D71
+         Session CrashGUID >====================================================
+>>>>>>> Stashed changes
 LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
 LogConfig: Display: Loading IOS ini files took 0.04 seconds
 LogConfig: Display: Loading Android ini files took 0.04 seconds
@@ -70,9 +89,13 @@ LogConfig: Display: Loading Windows ini files took 0.04 seconds
 LogConfig: Display: Loading Unix ini files took 0.04 seconds
 LogConfig: Display: Loading Linux ini files took 0.04 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin FastBuildController
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin MegascansPlugin
@@ -216,6 +239,18 @@ LogPluginManager: Mounting Engine plugin CameraShakePreviewer
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin AnimationSharing
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
+=======
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
@@ -336,6 +371,9 @@ LogPluginManager: Mounting Engine plugin Interchange
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin OnlineServices
@@ -347,6 +385,7 @@ LogPluginManager: Mounting Engine plugin DatabaseSupport
 LogPluginManager: Mounting Engine plugin SQLiteCore
 LogPluginManager: Mounting Engine plugin SQLiteSupport
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MegascansPlugin/Content/' mounted to '/MegascansPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
@@ -375,6 +414,15 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Pape
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+>>>>>>> Stashed changes
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
@@ -382,6 +430,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
@@ -397,6 +446,17 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+>>>>>>> Stashed changes
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
 >>>>>>> Stashed changes
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
@@ -432,7 +492,11 @@ LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
 LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
 LogInit: Net CL: 19505902
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: OS: Windows 10 (21H2) [10.0.19044.2965] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060
+=======
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2965] (), CPU: 13th Gen Intel(R) Core(TM) i7-13700K, GPU: NVIDIA GeForce RTX 3080
+>>>>>>> Stashed changes
 =======
 LogInit: OS: Windows 10 (22H2) [10.0.19045.2965] (), CPU: 13th Gen Intel(R) Core(TM) i7-13700K, GPU: NVIDIA GeForce RTX 3080
 >>>>>>> Stashed changes
@@ -442,8 +506,11 @@ LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE5+Release-5.0
 LogInit: Command Line: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Base Directory: D:/Programowanie/UE/UE_5.0/Engine/Binaries/Win64/
 =======
+=======
+>>>>>>> Stashed changes
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
 >>>>>>> Stashed changes
 LogInit: Allocator: Mimalloc
@@ -491,6 +558,7 @@ LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable crea
 LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
 LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2023.05.12-10.01.26:254][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
 [2023.05.12-10.01.26:254][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
@@ -9260,6 +9328,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.12-12.33.28:698][399]LogExit: Exiting.
 [2023.05.12-12.33.28:718][399]Log file closed, 05/12/23 14:33:28
 =======
+=======
+>>>>>>> Stashed changes
 [2023.05.24-12.51.06:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
 [2023.05.24-12.51.06:390][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
 [2023.05.24-12.51.06:390][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
@@ -17040,6 +17110,7 @@ Script Stack (0 frames):
 [2023.05.24-18.10.30:286][955]LogFileHelpers: Auto-saving content packages took 0.029
 [2023.05.24-18.11.10:599][217]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
 [2023.05.24-18.11.10:600][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+<<<<<<< Updated upstream
 [2023.05.24-18.13.16:517][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2023.05.24-18.13.17:968][366]LogSlate: Window 'Save Content' being destroyed
 [2023.05.24-18.13.18:013][366]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/BR/5T2SAS8S55688MDCC2RD4N
@@ -18091,4 +18162,6 @@ Script Stack (0 frames):
 [2023.05.24-18.13.22:275][367]LogD3D12RHI: ~FD3D12DynamicRHI
 [2023.05.24-18.13.22:275][367]LogExit: Exiting.
 [2023.05.24-18.13.22:284][367]Log file closed, 05/24/23 20:13:22
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
