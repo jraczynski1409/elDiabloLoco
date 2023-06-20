@@ -1,0 +1,1155 @@
+﻿Log file open, 06/20/23 18:48:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18420)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ElDiabloLoco
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Voldur\Documents\GitHub\elDiabloLoco\ElDiabloLoco.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3086] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13700K"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="268026fc4dec29f460e51785ba3911d7"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.185926
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-FD58FA5D46C7A1CBC2EA5AB9BDF58E38
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.3086] (), CPU: 13th Gen Intel(R) Core(TM) i7-13700K, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.20-16.48.47:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.20-16.48.47:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.20-16.48.47:218][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.20-16.48.47:220][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.20-16.48.47:227][  0]LogD3D12RHI: Aftermath initialized
+[2023.06.20-16.48.47:227][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.06.20-16.48.47:304][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.06.20-16.48.47:304][  0]LogD3D12RHI: Adapter has 10078MB of dedicated video memory, 0MB of dedicated system memory, and 32659MB of shared system memory, 2 output[s]
+[2023.06.20-16.48.47:350][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 770 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.06.20-16.48.47:350][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 32659MB of shared system memory, 0 output[s]
+[2023.06.20-16.48.47:353][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.06.20-16.48.47:353][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32659MB of shared system memory, 0 output[s]
+[2023.06.20-16.48.47:353][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.06.20-16.48.47:353][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.20-16.48.47:353][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.20-16.48.47:353][  0]LogHAL: Display: Platform has ~ 64 GB [68492189696 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.20-16.48.47:353][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.20-16.48.47:353][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.20-16.48.47:353][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.20-16.48.47:353][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.20-16.48.47:353][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.20-16.48.47:353][  0]LogInit: Computer: DESKTOP-A0J4LHC
+[2023.06.20-16.48.47:353][  0]LogInit: User: Voldur
+[2023.06.20-16.48.47:353][  0]LogInit: CPU Page size=4096, Cores=16
+[2023.06.20-16.48.47:353][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.20-16.48.47:353][  0]LogMemory: Memory total: Physical=63.8GB (64GB approx)
+[2023.06.20-16.48.47:353][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.20-16.48.47:353][  0]LogMemory: Process Physical Memory: 302.42 MB used, 305.05 MB peak
+[2023.06.20-16.48.47:353][  0]LogMemory: Process Virtual Memory: 287.53 MB used, 287.53 MB peak
+[2023.06.20-16.48.47:353][  0]LogMemory: Physical Memory: 11119.00 MB used,  54200.24 MB free, 65319.24 MB total
+[2023.06.20-16.48.47:353][  0]LogMemory: Virtual Memory: 14074.74 MB used,  60972.50 MB free, 75047.24 MB total
+[2023.06.20-16.48.47:353][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.20-16.48.47:356][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.20-16.48.47:364][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.20-16.48.47:365][  0]LogInit: Using OS detected language (pl-PL).
+[2023.06.20-16.48.47:365][  0]LogInit: Using OS detected locale (pl-PL).
+[2023.06.20-16.48.47:367][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so 'pl' will be used for the language.
+[2023.06.20-16.48.47:367][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2023.06.20-16.48.47:367][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2023.06.20-16.48.47:367][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2023.06.20-16.48.47:367][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2023.06.20-16.48.47:367][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2023.06.20-16.48.47:367][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2023.06.20-16.48.47:367][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2023.06.20-16.48.47:368][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.20-16.48.47:377][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.20-16.48.47:377][  0]LogWindowsTextInputMethodSystem:   - Polski (Polska) - (Keyboard).
+[2023.06.20-16.48.47:377][  0]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2023.06.20-16.48.47:389][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.20-16.48.47:389][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.20-16.48.47:455][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.06.20-16.48.47:457][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.06.20-16.48.47:457][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.06.20-16.48.47:503][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.06.20-16.48.47:575][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.06.20-16.48.47:578][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.06.20-16.48.47:584][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.06.20-16.48.47:615][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.06.20-16.48.47:615][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.06.20-16.48.47:628][  0]LogD3D12RHI:     GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.20-16.48.47:628][  0]LogWindows: Attached monitors:
+[2023.06.20-16.48.47:628][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY1'
+[2023.06.20-16.48.47:628][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2023.06.20-16.48.47:628][  0]LogWindows: Found 2 attached monitors.
+[2023.06.20-16.48.47:628][  0]LogWindows: EnumDisplayDevices:
+[2023.06.20-16.48.47:628][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.06.20-16.48.47:628][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY2'
+[2023.06.20-16.48.47:628][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.20-16.48.47:628][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.20-16.48.47:628][  0]LogWindows:    4. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.06.20-16.48.47:628][  0]LogWindows:    5. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.06.20-16.48.47:628][  0]LogWindows:    6. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.06.20-16.48.47:628][  0]LogWindows:    7. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.06.20-16.48.47:629][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.06.20-16.48.47:629][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2023.06.20-16.48.47:629][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.06.20-16.48.47:629][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2023.06.20-16.48.47:629][  0]LogRHI: Texture pool is 5865 MB (70% of 8379 MB)
+[2023.06.20-16.48.47:629][  0]LogD3D12RHI: Async texture creation enabled
+[2023.06.20-16.48.47:629][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.06.20-16.48.47:636][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.06.20-16.48.47:639][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Voldur/Documents/GitHub/elDiabloLoco/ElDiabloLoco.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Voldur/Documents/GitHub/elDiabloLoco/ElDiabloLoco.uproject"  -platform=all'
+[2023.06.20-16.48.47:639][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Voldur/Documents/GitHub/elDiabloLoco/ElDiabloLoco.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Voldur/Documents/GitHub/elDiabloLoco/ElDiabloLoco.uproject"  -platform=all" ]
+[2023.06.20-16.48.47:652][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.20-16.48.47:656][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.20-16.48.47:656][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.20-16.48.47:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.20-16.48.47:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.20-16.48.47:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.20-16.48.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.20-16.48.47:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.20-16.48.47:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.20-16.48.47:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.20-16.48.47:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.20-16.48.47:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.20-16.48.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.20-16.48.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.20-16.48.47:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.20-16.48.47:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.20-16.48.47:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.20-16.48.47:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.20-16.48.47:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.20-16.48.47:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.20-16.48.47:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.20-16.48.47:680][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.20-16.48.47:684][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.20-16.48.47:685][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.20-16.48.47:685][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.20-16.48.47:685][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.20-16.48.47:685][  0]LogTargetPlatformManager:   PCM
+[2023.06.20-16.48.47:687][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.20-16.48.47:687][  0]LogTargetPlatformManager:   BINKA
+[2023.06.20-16.48.47:687][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.20-16.48.47:687][  0]LogTargetPlatformManager:   OGG
+[2023.06.20-16.48.47:687][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.20-16.48.47:687][  0]LogTargetPlatformManager:   OPUS
+[2023.06.20-16.48.47:713][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.06.20-16.48.47:713][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.20-16.48.47:716][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.20-16.48.47:717][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.20-16.48.47:717][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.20-16.48.47:717][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.20-16.48.47:717][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.20-16.48.47:717][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.20-16.48.47:717][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.20-16.48.47:717][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.20-16.48.47:717][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.20-16.48.47:718][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Voldur/Documents/GitHub/elDiabloLoco/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.20-16.48.47:721][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.20-16.48.47:722][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Voldur/Documents/GitHub/elDiabloLoco/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.20-16.48.47:722][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.20-16.48.47:724][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Voldur/Documents/GitHub/elDiabloLoco/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.20-16.48.47:724][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.20-16.48.47:724][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Voldur/Documents/GitHub/elDiabloLoco/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.20-16.48.47:724][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.20-16.48.47:736][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.20-16.48.47:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.20-16.48.47:736][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.20-16.48.47:741][  0]LogDerivedDataCache: Speed tests for C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.06.20-16.48.47:741][  0]LogDerivedDataCache: Display: Performance to C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1045.41MBs, RandomWriteSpeed=274.61MBs. Assigned SpeedClass 'Local'
+[2023.06.20-16.48.47:743][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.20-16.48.47:743][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.20-16.48.47:743][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.20-16.48.47:746][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.20-16.48.47:746][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.20-16.48.47:747][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Voldur/Documents/GitHub/elDiabloLoco/Intermediate/Shaders/WorkingDirectory/8948/).
+[2023.06.20-16.48.47:747][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Voldur/AppData/Local/Temp/UnrealShaderWorkingDir/9703CC05484AF1DCD05734A9CF63CCBC/'.
+[2023.06.20-16.48.47:747][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.20-16.48.47:747][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 12 workers.
+[2023.06.20-16.48.48:568][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.20-16.48.48:568][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.20-16.48.48:591][  0]LogAssetRegistry: FAssetRegistry took 0.0072 seconds to start up
+[2023.06.20-16.48.48:596][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.20-16.48.48:711][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.20-16.48.48:711][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.20-16.48.48:843][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.20-16.48.48:843][  0]LogDeviceProfileManager: Active device profile: [000006E354392D80][000006E349605000 50] WindowsEditor
+[2023.06.20-16.48.48:843][  0]LogDeviceProfileManager: Profiles: [000006E354392840][000006E34960A000 50] Windows, [000006E354392D80][000006E349605000 50] WindowsEditor, [000006E354392300][000006E349602800 50] WindowsServer, [000006E354392140][000006E34944A000 50] WindowsClient, [000006E354391F80][000006E349607800 50] IOS, [000006E354391DC0][000006E3543B0000 50] iPadAir2, [000006E354394EC0][000006E3543B7800 50] IPadPro, [000006E354395240][000006E3543B5000 50] iPadAir3, [000006E3543947C0][000006E3543BA000 50] iPadAir4, [000006E354391340][000006E3543BC800 50] iPadMini4, [000006E354392680][000006E329F25000 50] iPadMini5, [000006E354395400][000006E3543D0000 50] iPadMini6, [000006E354398500][000006E3543DA000 50] iPhone6S, [000006E354398880][000006E3543D7800 50] iPhone7, [000006E354398C00][000006E3543D5000 50] iPodTouch7, [000006E354396580][000006E3543DC800 50] iPhone6SPlus, [000006E354398A40][000006E3543B2800 50] iPhone7Plus, [000006E354394600][000006E3543E0000 50] iPhoneSE, [000006E354392F40][000006E3543E5000 50] iPhone8, [000006E354397A80][000006E3543E7800 50] iPhone8Plus, [000006E354395CC0][000006E3543EA000 50] iPhoneX, [000006E354393B80][000006E3543EC800 50] iPhoneXS, [000006E3543978C0][000006E3543D2800 50] iPhoneXSMax, [000006E354395780][000006E3543F0000 50] iPhoneXR, [000006E354397FC0][000006E3543F5000 50] iPhone11, [000006E354397700][000006E3543F7800 50] iPhone11Pro, [000006E354394B40][000006E3543FA000 50] iPhone11ProMax, [000006E354397540][000006E3543FC800 50] iPhoneSE2, [000006E354391A40][000006E3543E2800 50] iPhone12Mini, [000006E354390380][000006E354420000 50] iPhone12, [000006E354395940][000006E354425000 50] iPhone12Pro, [000006E354390E00][000006E354427800 50] iPhone12ProMax, [000006E354390000][000006E35442A000 50] iPhone13Mini, [000006E3543932C0][000006E35442C800 50] iPhone13, [000006E354393800][000006E3543F2800 50] iPhone13Pro, [000006E354395080][000006E354430000 50] iPhone13ProMax, [000006E354397E00][000006E354435000 50] iPadPro105, [000006E3543986C0][000006E354437800 50] iPadPro129, [000006E354390C40][000006E35443A000 50] iPadPro97, [000006E354395E80][000006E35443C800 50] iPadPro2_129, [000006E354391180][000006E354422800 50] iPad5, [000006E3543908C0][000006E354440000 50] iPad6, [000006E354396C80][000006E354445000 50] iPad7, [000006E354393D40][000006E354447800 50] iPad8, [000006E354396200][000006E35444A000 50] iPad9, [000006E354392BC0][000006E35444C800 50] iPadPro11, [000006E354391500][000006E354432800 50] iPadPro2_11, [000006E354394980][000006E354450000 50] iPadPro3_11, [000006E354396900][000006E354455000 50] iPadPro3_129, [000006E354393640][000006E354457800 50] iPadPro4_129, [000006E354394280][000006E35445A000 50] iPadPro5_129, [000006E354398180][000006E35445C800 50] AppleTV, [000006E3543924C0][000006E354442800 50] AppleTV4K, [000006E354390700][000006E354460000 50] TVOS, [000006E35439A2C0][000006E354467800 50] Mac, [000006E35439A640][000006E354465000 50] MacEditor, [000006E354391880][000006E35446A000 50] MacClient, [000006E354391C00][000006E35446C800 50] MacServer, [000006E3543963C0][000006E354490000 50] Linux, [000006E35439AF00][000006E354492800 50] LinuxEditor, [000006E354396040][000006E354497800 50] LinuxArm64Editor, [000006E35439AB80][000006E35449A000 50] LinuxArm64, [000006E354395B00][000006E35449C800 50] LinuxClient, [000006E35439B0C0][000006E354452800 50] LinuxArm64Client, [000006E354390FC0][000006E354495000 50] LinuxServer, [000006E354399840][000006E354470000 50] LinuxArm64Server, [000006E354397000][000006E354475000 50] Android, [000006E354399680][000006E354477800 50] Android_Preview_OpenGL, [000006E3543994C0][000006E35447A000 50] Android_Preview_Vulkan, [000006E35439A100][000006E35447C800 50] Android_Low, [000006E354396AC0][000006E354462800 50] Android_Mid, [000006E354396740][000006E354480000 50] Android_High, [000006E354398F80][000006E354485000 50] Android_Default, [000006E35439B7C0][000006E354487800 50] Android_Adreno4xx, [000006E35439A480][000006E35448A000 50] Android_Adreno5xx_Low, [000006E354399F40][000006E35448C800 50] Android_Adreno5xx, [000006E35439AD40][000006E354472800 50] Android_Adreno6xx, [000006E3543939C0][000006E3544A0000 50] Android_Adreno6xx_Vulkan, [000006E3543940C0][000006E3544A5000 50] Android_Adreno7xx, [000006E354397380][000006E3544A7800 50] Android_Adreno7xx_Vulkan, [000006E354398DC0][000006E3544AA000 50] Android_Mali_T6xx, [000006E354393100][000006E3544AC800 50] Android_Mali_T7xx, [000006E3543916C0][000006E354482800 50] Android_Mali_T8xx, [000006E354399A00][000006E3544B0000 50] Android_Mali_G71, [000006E354394D00][000006E3544B5000 50] Android_Mali_G72, [000006E354397C40][000006E3544B7800 50] Android_Mali_G72_Vulkan, [000006E35439A9C0][000006E3544BA000 50] Android_Mali_G76, [000006E354393F00][000006E3544BC800 50] Android_Mali_G76_Vulkan, [000006E3543955C0][000006E3544A2800 50] Android_Mali_G77, [000006E354390540][000006E3544C0000 50] Android_Mali_G77_Vulkan, [000006E35439B980][000006E3544C5000 50] Android_Mali_G78, [000006E354399BC0][000006E3544C7800 50] Android_Mali_G78_Vulkan, [000006E354396E40][000006E3544CA000 50] Android_Mali_G710, [000006E35439BB40][000006E3544CC800 50] Android_Mali_G710_Vulkan, [000006E354398340][000006E3544B2800 50] Android_Xclipse_920, [000006E354399140][000006E3544D0000 50] Android_Xclipse_920_Vulkan, [000006E354393480][000006E3544D5000 50] Android_Vulkan_SM5, [000006E35439CE80][000006E3544D7800 50] Android_PowerVR_G6xxx, [000006E35439C5C0][000006E3544DA000 50] Android_PowerVR_GT7xxx, [000006E3543971C0][000006E3544DC800 50] Android_PowerVR_GE8xxx, [000006E35439D040][000006E3544C2800 50] Android_PowerVR_GM9xxx, [000006E35439C080][000006E3544E0000 50] Android_PowerVR_GM9xxx_Vulkan, [000006E35439C400][000006E3544E5000 50] Android_TegraK1, [000006E35439D200][000006E3544E7800 50] Android_Unknown_Vulkan, [000006E35439CB00][000006E3544EA000 50] Oculus_Quest, [000006E35439D740][000006E3544EC800 50] Oculus_Quest2, [000006E35439DAC0][000006E3544D2800 50] HoloLens, 
+[2023.06.20-16.48.48:843][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.20-16.48.48:856][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.20-16.48.48:962][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.20-16.48.48:962][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.20-16.48.48:962][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.20-16.48.48:962][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.20-16.48.48:962][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.20-16.48.48:972][  0]LogNetVersion: ElDiabloLoco 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3249633970)
+[2023.06.20-16.48.49:041][  0]LogSlate: Border
+[2023.06.20-16.48.49:041][  0]LogSlate: BreadcrumbButton
+[2023.06.20-16.48.49:041][  0]LogSlate: Default
+[2023.06.20-16.48.49:041][  0]LogSlate: Icons.Save
+[2023.06.20-16.48.49:041][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.20-16.48.49:041][  0]LogSlate: ListView
+[2023.06.20-16.48.49:041][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.20-16.48.49:041][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.20-16.48.49:042][  0]LogSlate: TableView.DarkRow
+[2023.06.20-16.48.49:042][  0]LogSlate: TableView.Row
+[2023.06.20-16.48.49:042][  0]LogSlate: TreeView
+[2023.06.20-16.48.49:140][  0]SourceControl: Source control is disabled
+[2023.06.20-16.48.49:155][  0]SourceControl: Source control is disabled
+[2023.06.20-16.48.49:155][  0]SourceControl: Source control is disabled
+[2023.06.20-16.48.49:224][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.06.20-16.48.49:225][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.06.20-16.48.49:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.20-16.48.49:372][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C6D6416E420C5B7D48C61E830CACB648 | Instance: 4026DC3845626E027193F8B75F8D5D13 (DESKTOP-A0J4LHC-8948).
+[2023.06.20-16.48.49:430][  0]LogPython: Using Python 3.9.7
+[2023.06.20-16.48.49:828][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.20-16.48.49:831][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.20-16.48.49:997][  0]SourceControl: Source control is disabled
+[2023.06.20-16.48.49:999][  0]SourceControl: Source control is disabled
+[2023.06.20-16.48.50:001][  0]SourceControl: Source control is disabled
+[2023.06.20-16.48.50:010][  0]LogUProjectInfo: Found projects:
+[2023.06.20-16.48.50:013][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.20-16.48.50:013][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.20-16.48.50:014][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.20-16.48.50:084][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.20-16.48.50:102][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.20-16.48.50:117][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.20-16.48.50:117][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.20-16.48.50:174][  0]LogCollectionManager: Loaded 0 collections in 0.000981 seconds
+[2023.06.20-16.48.50:216][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Saved/Collections/' took 0.00s
+[2023.06.20-16.48.50:216][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Content/Developers/Voldur/Collections/' took 0.00s
+[2023.06.20-16.48.50:216][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Content/Collections/' took 0.00s
+[2023.06.20-16.48.50:389][  0]LogEngine: Initializing Engine...
+[2023.06.20-16.48.50:397][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.06.20-16.48.50:398][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.06.20-16.48.50:534][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.20-16.48.50:534][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.20-16.48.50:541][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-16.48.50:556][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.20-16.48.50:557][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.20-16.48.50:568][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.20-16.48.50:568][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.20-16.48.50:568][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.20-16.48.50:568][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.20-16.48.50:568][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.20-16.48.50:568][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.20-16.48.50:568][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.20-16.48.50:568][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.20-16.48.50:572][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.20-16.48.50:598][  0]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2023.06.20-16.48.50:598][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.20-16.48.50:599][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.20-16.48.50:599][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.20-16.48.50:600][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.20-16.48.50:600][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.06.20-16.48.50:601][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.20-16.48.50:601][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.20-16.48.50:601][  0]LogInit: FAudioDevice initialized.
+[2023.06.20-16.48.50:601][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.20-16.48.50:601][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.20-16.48.50:601][  0]LogInit: Texture streaming: Enabled
+[2023.06.20-16.48.50:620][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.20-16.48.50:623][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.20-16.48.50:636][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.20-16.48.50:640][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.20-16.48.50:640][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.06.20-16.48.51:272][  0]LogLiveCoding: Display: First instance in process group "UE_ElDiabloLoco_0xa836400b", spawning console
+[2023.06.20-16.48.51:272][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.20-16.48.51:272][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.20-16.48.51:284][  0]LogInit: Transaction tracking system initialized
+[2023.06.20-16.48.51:327][  0]BlueprintLog: New page: Editor Load
+[2023.06.20-16.48.51:430][  0]LocalizationService: Localization service is disabled
+[2023.06.20-16.48.51:456][  0]TimingProfiler: Initialize
+[2023.06.20-16.48.51:457][  0]TimingProfiler: OnSessionChanged
+[2023.06.20-16.48.51:457][  0]LoadingProfiler: Initialize
+[2023.06.20-16.48.51:457][  0]LoadingProfiler: OnSessionChanged
+[2023.06.20-16.48.51:457][  0]NetworkingProfiler: Initialize
+[2023.06.20-16.48.51:457][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.20-16.48.51:457][  0]MemoryProfiler: Initialize
+[2023.06.20-16.48.51:457][  0]MemoryProfiler: OnSessionChanged
+[2023.06.20-16.48.51:557][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.20-16.48.51:558][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.20-16.48.51:558][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.20-16.48.51:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Content/' took 0.03s
+[2023.06.20-16.48.51:819][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.20-16.48.51:895][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.20-16.48.51:896][  0]SourceControl: Source control is disabled
+[2023.06.20-16.48.51:896][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.510
+[2023.06.20-16.48.51:896][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Voldur/Documents/GitHub/elDiabloLoco/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.20-16.48.51:900][  0]LightingResults: New page: Lighting Build
+[2023.06.20-16.48.51:904][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-16.48.51:904][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-16.48.51:904][  0]MapCheck: New page: Map Check
+[2023.06.20-16.48.51:904][  0]LightingResults: New page: Lighting Build
+[2023.06.20-16.48.51:909][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.20-16.48.51:913][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.20-16.48.52:711][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonTerra\Characters\Heroes\Terra\TerraPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.06.20-16.48.52:711][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonTerra\Characters\Heroes\Terra\TerraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.06.20-16.48.52:711][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonTerra\Characters\Heroes\Terra\TerraPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2023.06.20-16.48.52:712][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonTerra\Characters\Heroes\Terra\TerraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2023.06.20-16.48.52:712][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonTerra\Characters\Heroes\Terra\TerraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.06.20-16.48.52:712][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonTerra\Characters\Heroes\Terra\TerraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.06.20-16.48.52:712][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonTerra\Characters\Heroes\Terra\TerraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.06.20-16.48.52:712][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonTerra\Characters\Heroes\Terra\TerraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.06.20-16.48.53:769][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonKhaimera\Characters\Heroes\Khaimera\KhaimeraPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.06.20-16.48.53:770][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonKhaimera\Characters\Heroes\Khaimera\KhaimeraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.06.20-16.48.53:771][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonKhaimera\Characters\Heroes\Khaimera\KhaimeraPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2023.06.20-16.48.53:771][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonKhaimera\Characters\Heroes\Khaimera\KhaimeraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2023.06.20-16.48.53:772][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonKhaimera\Characters\Heroes\Khaimera\KhaimeraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.06.20-16.48.53:772][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonKhaimera\Characters\Heroes\Khaimera\KhaimeraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.06.20-16.48.53:773][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonKhaimera\Characters\Heroes\Khaimera\KhaimeraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.06.20-16.48.53:773][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\ParagonKhaimera\Characters\Heroes\Khaimera\KhaimeraPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.06.20-16.48.53:935][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ParagonTerra/Characters/Global/Eyes/Textures/T_EpicQuadPanorama_CC.T_EpicQuadPanorama_CC', its maximum texture size has been explicitly set to 512.
+[2023.06.20-16.48.54:504][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Terra) ...
+[2023.06.20-16.48.54:749][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC
+[2023.06.20-16.48.54:749][  0]LogSkeletalMesh: Building Skeletal Mesh Khaimera...
+[2023.06.20-16.48.54:749][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Terra_MountainForge) ...
+[2023.06.20-16.48.54:968][  0]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Meshes/Khaimera.Khaimera
+[2023.06.20-16.48.54:996][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2023.06.20-16.48.55:002][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-16.48.55:002][  0]LogAIModule: Creating AISystem for world TopDownMap
+[2023.06.20-16.48.55:005][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.20-16.48.55:005][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.06.20-16.48.55:144][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var11_lod1': Can't find file.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var11_lod1'
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var12_lod1': Can't find file.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var12_lod1'
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var13_lod1': Can't find file.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var13_lod1'
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var14_lod1': Can't find file.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var14_lod1'
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var1_lod1': Can't find file.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var1_lod1'
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var2_lod1': Can't find file.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var2_lod1'
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var3_lod1': Can't find file.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var3_lod1'
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var4_lod1': Can't find file.
+[2023.06.20-16.48.55:342][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var4_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var5_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var5_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var6_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var6_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var7_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var7_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var8_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var8_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var9_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var9_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var10_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var10_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var1_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var1_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var2_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var2_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var3_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var3_lod1'
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var4_lod1': Can't find file.
+[2023.06.20-16.48.55:343][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var4_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var5_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var5_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var6_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var6_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var7_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var7_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var8_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var8_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var9_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Boxwood_wfypfa3ha/Foliage/FT_Boxwood_wfypfa3ha_Var9_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Cat_Palm_tjejafeia/Foliage/FT_Cat_Palm_tjejafeia_Var1_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Cat_Palm_tjejafeia/Foliage/FT_Cat_Palm_tjejafeia_Var1_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Cat_Palm_tjejafeia/Foliage/FT_Cat_Palm_tjejafeia_Var2_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Cat_Palm_tjejafeia/Foliage/FT_Cat_Palm_tjejafeia_Var2_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Cat_Palm_tjejafeia/Foliage/FT_Cat_Palm_tjejafeia_Var3_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Cat_Palm_tjejafeia/Foliage/FT_Cat_Palm_tjejafeia_Var3_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Cat_Palm_tjejafeia/Foliage/FT_Cat_Palm_tjejafeia_Var4_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Cat_Palm_tjejafeia/Foliage/FT_Cat_Palm_tjejafeia_Var4_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var10_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var10_lod1'
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var11_lod1': Can't find file.
+[2023.06.20-16.48.55:344][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var11_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var12_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var12_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var13_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var13_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var14_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var14_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var1_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var1_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var2_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var2_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var3_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var3_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var4_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var4_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var5_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var5_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var6_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var6_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var7_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var7_lod1'
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var8_lod1': Can't find file.
+[2023.06.20-16.48.55:345][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var8_lod1'
+[2023.06.20-16.48.55:346][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var9_lod1': Can't find file.
+[2023.06.20-16.48.55:346][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/Foliage/FT_Field_Poppy_vmcobd0ja_Var9_lod1'
+[2023.06.20-16.48.55:346][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/Foliage/FT_Grass_Clumps_qmBr2_Var1_lod1': Can't find file.
+[2023.06.20-16.48.55:346][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/Foliage/FT_Grass_Clumps_qmBr2_Var1_lod1'
+[2023.06.20-16.48.55:346][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/Foliage/FT_Grass_Clumps_qmBr2_Var2_lod1': Can't find file.
+[2023.06.20-16.48.55:346][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/Foliage/FT_Grass_Clumps_qmBr2_Var2_lod1'
+[2023.06.20-16.48.55:346][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\5\WJ\FXMKBIVADRTRSU6G09IQHD.uasset: Failed to load '/Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/Foliage/FT_Grass_Clumps_qmBr2_Var3_lod1': Can't find file.
+[2023.06.20-16.48.55:346][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/Foliage/FT_Grass_Clumps_qmBr2_Var3_lod1'
+[2023.06.20-16.48.55:351][  0]MapCheck: Warning: InstancedFoliageActor_UAID_50EBF67D3B54F47A01_1191176940 Foliage instances for a missing static mesh have been removed. 
+[2023.06.20-16.48.55:433][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ParagonKhaimera/Characters/Maps/BackGroundAssets/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.06.20-16.48.55:523][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var10_lod1': Can't find file.
+[2023.06.20-16.48.55:523][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/Foliage/FT_Bigleaf_Hydrangea_vgztealha_Var10_lod1'
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var10_lod1': Can't find file.
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var10_lod1'
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var13_lod1': Can't find file.
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var13_lod1'
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var14_lod1': Can't find file.
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var14_lod1'
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var7_lod1': Can't find file.
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var7_lod1'
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var8_lod1': Can't find file.
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var8_lod1'
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var9_lod1': Can't find file.
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Bigleaf_Hydrangea_vgztealha/S_Bigleaf_Hydrangea_vgztealha_Var9_lod1'
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var10_lod1': Can't find file.
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var10_lod1'
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var11_lod1': Can't find file.
+[2023.06.20-16.48.55:524][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var11_lod1'
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var12_lod1': Can't find file.
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var12_lod1'
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var7_lod1': Can't find file.
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var7_lod1'
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var8_lod1': Can't find file.
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var8_lod1'
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var9_lod1': Can't find file.
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Field_Poppy_vmcobd0ja/S_Field_Poppy_vmcobd0ja_Var9_lod1'
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/S_Grass_Clumps_qmBr2_Var1_lod1': Can't find file.
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/S_Grass_Clumps_qmBr2_Var1_lod1'
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/S_Grass_Clumps_qmBr2_Var2_lod1': Can't find file.
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/S_Grass_Clumps_qmBr2_Var2_lod1'
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\elDiabloLoco\Content\__ExternalActors__\TopDown\Maps\TopDownMap\B\5S\ZBJZEVAY4OE1CHOXABYJAN.uasset: Failed to load '/Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/S_Grass_Clumps_qmBr2_Var3_lod1': Can't find file.
+[2023.06.20-16.48.55:525][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/3D_Plants/Grass_Clumps_qmBr2/S_Grass_Clumps_qmBr2_Var3_lod1'
+[2023.06.20-16.48.55:529][  0]MapCheck: Warning: InstancedFoliageActor_25600_0_0_0 Foliage instances for a missing static mesh have been removed. 
+[2023.06.20-16.48.55:587][  0]LogWorldPartition: Display: WorldPartition initialize took 581 ms
+[2023.06.20-16.48.55:768][  0]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.20-16.48.55:772][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.20-16.48.55:783][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.06.20-16.48.55:792][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.06.20-16.48.55:792][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.20-16.48.55:793][  0]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0,634ms to complete.
+[2023.06.20-16.48.55:872][  0]LogFileHelpers: Loading map 'TopDownMap' took 3.975
+[2023.06.20-16.48.55:879][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.493
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: ================================================
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.20-16.48.55:879][  0]LogShaderCompilers: Display: ================================================
+[2023.06.20-16.48.55:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-16.48.55:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-16.48.55:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-16.48.55:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-16.48.56:014][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:014][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:014][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:014][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:015][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:015][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:015][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:015][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:015][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:015][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:015][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:015][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:016][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:016][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:016][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:016][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:016][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:016][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:016][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.20-16.48.56:016][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-16.48.56:016][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.06.20-16.48.56:091][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.20-16.48.56:093][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.20-16.48.56:093][  0]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.20-16.48.56:105][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.06.20-16.48.56:559][  0]LogStall: Startup...
+[2023.06.20-16.48.56:560][  0]LogStall: Startup complete.
+[2023.06.20-16.48.56:567][  0]LogLoad: (Engine Initialization) Total time: 10.18 seconds
+[2023.06.20-16.48.56:568][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.20-16.48.56:590][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Death_B.Death_B
+[2023.06.20-16.48.56:590][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/Blueprints/Anim/Melee_B.Melee_B
+[2023.06.20-16.48.56:590][  0]LogAssetRegistry: Asset discovery search completed in 7.9998 seconds
+[2023.06.20-16.48.56:592][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.06.20-16.48.56:592][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.20-16.48.56:630][  0]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.20-16.48.56:941][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/Blueprints/Anim/Melee_A.Melee_A
+[2023.06.20-16.48.56:941][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Melee_C.Melee_C
+[2023.06.20-16.48.57:589][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jog_Left_SlopeDownHill.Jog_Left_SlopeDownHill
+[2023.06.20-16.48.57:589][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jog_Left_SlopeUpHill.Jog_Left_SlopeUpHill
+[2023.06.20-16.48.57:946][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jog_Fwd_CircleRight.Jog_Fwd_CircleRight
+[2023.06.20-16.48.57:946][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jog_Fwd_CircleLeft.Jog_Fwd_CircleLeft
+[2023.06.20-16.48.58:327][  5]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jump_Start.Jump_Start
+[2023.06.20-16.48.58:327][  5]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jog_Fwd.Jog_Fwd
+[2023.06.20-16.48.58:594][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive
+[2023.06.20-16.48.58:594][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jump_PreLand.Jump_PreLand
+[2023.06.20-16.48.58:933][  7]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop
+[2023.06.20-16.48.58:933][  7]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jump_Apex.Jump_Apex
+[2023.06.20-16.48.58:933][  7]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 3.949972 sec, no shader worker used.
+[2023.06.20-16.48.59:270][  9]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Idle_NonAdditive.Idle_NonAdditive
+[2023.06.20-16.48.59:270][  9]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Jog_Fwd_Start.Jog_Fwd_Start
+[2023.06.20-16.48.59:645][  9]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart.LevelStart
+[2023.06.20-16.48.59:975][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Idle_Zero_Pose.Idle_Zero_Pose
+[2023.06.20-16.49.00:274][ 12]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_RD.Idle_AO_RD
+[2023.06.20-16.49.00:274][ 12]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_RU.Idle_AO_RU
+[2023.06.20-16.49.00:612][ 13]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_RC.Idle_AO_RC
+[2023.06.20-16.49.00:612][ 13]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_LU.Idle_AO_LU
+[2023.06.20-16.49.00:944][ 14]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_LC.Idle_AO_LC
+[2023.06.20-16.49.00:944][ 14]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_LD.Idle_AO_LD
+[2023.06.20-16.49.01:276][ 14]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD
+[2023.06.20-16.49.01:276][ 14]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/AimOffsets/Idle_AO_CU.Idle_AO_CU
+[2023.06.20-16.49.01:276][ 14]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.01:949][ 16]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Voldur/Documents/GitHub/elDiabloLoco/Content/' took 5.36s
+[2023.06.20-16.49.14:299][971]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM5, Default, SM5 (DDC key hash: F2539B3D41F5DFD5384B4188DBCEA363E800FD3F), compiling. 
+[2023.06.20-16.49.14:302][971]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: 563A778B3409B023A063EBC461E025A770BE3C66), compiling. 
+[2023.06.20-16.49.14:304][971]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_17 in PCD3D_SM5, Default, SM5 (DDC key hash: 23C53E607ED14066101A863EE52A43FF365EA1F1), compiling. 
+[2023.06.20-16.49.14:349][971]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2023.06.20-16.49.29:967][797]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.20-16.49.36:368][517]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_18 in PCD3D_SM5, Default, SM5 (DDC key hash: 8708CB7D0E898374EA0662B57749F9C7833ED88D), compiling. 
+[2023.06.20-16.49.36:370][517]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: F5DB0EEEB4C93C46DCE6C35B3E16871CF47CD244), compiling. 
+[2023.06.20-16.49.36:372][517]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 2793D86B57F7D7FDC9D3E3B0E41413943FC03493), compiling. 
+[2023.06.20-16.49.49:407][ 71]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.49.49:410][ 71]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 13BE175D119889632275C0E94761BD011C10387E), compiling. 
+[2023.06.20-16.49.49:422][ 71]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 71304DB9B88277D43FC6864162F6DF64C05F154A), compiling. 
+[2023.06.20-16.49.49:436][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.49:696][104]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.49:947][132]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.50:157][157]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.50:360][180]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.50:529][197]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.50:714][219]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.50:949][247]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.51:341][294]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.51:819][350]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_4_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.49.51:844][353]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.52:090][381]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_4_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.49.52:105][383]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.52:297][404]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_2_4_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.49.52:322][407]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.52:737][455]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_2_4_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.49.52:760][458]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.53:261][517]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.56:497][888]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.56:601][900]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.49.56:617][902]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.56:669][908]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_-1_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.49.56:686][910]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.56:771][920]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.56:871][932]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.57:032][951]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.57:499][  7]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.49.59:921][267]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.00:066][275]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.00:253][287]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.00:563][324]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.01:061][383]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_-1_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.01:077][385]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.01:430][427]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.01:704][459]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_-1_1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.01:719][461]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.01:947][488]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.02:522][557]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.02:674][575]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.02:825][593]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.03:019][616]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.03:243][643]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.03:621][688]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.03:906][722]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.04:568][801]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_0_4_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.04:585][803]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.04:786][827]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.05:008][853]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_1_4_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.05:033][856]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.05:367][896]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.06:809][ 69]Cmd: TRANSACTION UNDO
+[2023.06.20-16.50.06:809][ 69]LogEditorTransaction: Undo Landscape Editing: Add New Landscape Component
+[2023.06.20-16.50.06:826][ 69]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_2_4_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.06:828][ 69]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_2_3_0.Heightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.06:829][ 69]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_1_3_0.Heightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.06:833][ 69]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_-1_4_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.06:833][ 69]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_0_3_0.Heightmap_1 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.06:842][ 69]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_-1_3_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.06:914][ 70]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.09:159][294]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.09:326][314]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.11:514][576]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.11:589][585]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.12:200][658]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_1_4_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.50.12:216][660]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.12:342][675]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.12:903][742]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.13:003][754]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.50.32:788][101]Cmd: TRANSACTION UNDO
+[2023.06.20-16.50.32:789][101]LogEditorTransaction: Undo Clicking on Elements
+[2023.06.20-16.50.33:370][115]Cmd: TRANSACTION UNDO
+[2023.06.20-16.50.33:370][115]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2023.06.20-16.50.47:996][845]LogDerivedDataCache: C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.252 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.20-16.51.19:083][389]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_8 in PCD3D_SM5, Default, SM5 (DDC key hash: A6226C0D3042E15C8BBB6F2091D9FA9B7C5F8442), compiling. 
+[2023.06.20-16.51.19:086][389]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_10 in PCD3D_SM5, Default, SM5 (DDC key hash: C09D76C6186F0D43D9EB4BA9B2B788C2F4D5E10F), compiling. 
+[2023.06.20-16.51.31:578][831]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.51.33:653][ 80]Cmd: TRANSACTION UNDO
+[2023.06.20-16.51.33:653][ 80]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.06.20-16.51.33:673][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_2_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:674][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_1_0.Heightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:675][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_1_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:676][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_1_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:677][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:678][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_0_0.Heightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:680][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_0_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:680][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_0_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:681][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:681][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:682][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:707][ 80]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_-1_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.51.33:749][ 81]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.52.18:300][274]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.52.19:291][393]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.52.36:973][440]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.52.37:955][505]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.52.38:330][521]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.52.54:633][433]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.06.20-16.53.20:584][446]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.24:670][935]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.26:169][115]Cmd: TRANSACTION UNDO
+[2023.06.20-16.53.26:170][115]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.06.20-16.53.26:189][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_-1_0_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:190][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_0_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:191][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_-1_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:192][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_-1_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:193][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_1_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:193][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_0_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:194][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_1_0_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:195][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_1_-1_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:197][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_1_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:199][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_2_-1_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:202][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:202][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_0_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:203][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:211][115]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:264][116]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.26:679][124]Cmd: TRANSACTION UNDO
+[2023.06.20-16.53.26:679][124]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.06.20-16.53.26:716][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_4_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:717][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_3_4_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:717][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_4_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:718][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_3_0.Heightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:719][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_3_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:720][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_3_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:721][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_3_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:721][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_2_0.Heightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:722][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_2_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:726][124]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_1_3_2_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.26:802][125]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.31:589][690]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.42:665][990]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.50:399][910]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.51:265][ 14]Cmd: TRANSACTION UNDO
+[2023.06.20-16.53.51:266][ 14]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.06.20-16.53.51:272][ 14]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_2_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.51:273][ 14]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_1_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.51:273][ 14]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.51:274][ 14]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_0_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.51:275][ 14]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_-1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.51:289][ 14]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.51:349][ 15]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.53:491][226]Cmd: TRANSACTION UNDO
+[2023.06.20-16.53.53:491][226]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.06.20-16.53.53:499][226]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_1_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.53:500][226]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_0_0.Heightmap_0 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.53:524][227]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.LandscapeStreamingProxy_70OY8B9QK1HCUI4G55SRMS4Y1_126_4_0_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.06.20-16.53.53:525][227]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.53.53:951][277]Cmd: TRANSACTION UNDO
+[2023.06.20-16.53.53:951][277]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.06.20-16.53.54:011][278]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.54.07:297][860]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.54.08:305][981]Cmd: TRANSACTION UNDO
+[2023.06.20-16.54.08:305][981]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.06.20-16.54.08:400][982]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.54.26:086][ 26]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.54.40:605][764]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.54.44:523][234]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.54.56:137][616]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.55.09:633][150]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.55.25:734][  6]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.55.32:203][695]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.55.38:081][315]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.55.42:060][710]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.55.46:641][183]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.55.48:524][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.20-16.55.48:532][397]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.20-16.55.48:532][397]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.20-16.55.48:532][397]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.20-16.55.48:532][397]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.06.20-16.55.48:532][397]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.06.20-16.55.48:532][397]LogWorldPartition: Display: GetPartitionedActors took 40 us
+[2023.06.20-16.55.48:532][397]LogWorldPartition: Display: GenerateStreaming took 324 us
+[2023.06.20-16.55.48:532][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.20-16.55.48:533][397]PIE: New page: PIE session: TopDownMap (20 cze 2023, 20:55:48)
+[2023.06.20-16.55.48:536][397]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.06.20-16.55.48:536][397]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.20-16.55.48:536][397]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.06.20-16.55.48:551][397]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.06.20-16.55.48:551][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015510s)
+[2023.06.20-16.55.48:551][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.015571s)
+[2023.06.20-16.55.48:552][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-16.55.48:552][397]LogAIModule: Creating AISystem for world TopDownMap
+[2023.06.20-16.55.48:552][397]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.20-16.55.48:552][397]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.06.20-16.55.48:555][397]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.06.20-16.55.48:555][397]LogPlayLevel: PIE: World Init took: (0.003295s)
+[2023.06.20-16.55.48:562][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.06.20-16.55.48:564][397]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.20-16.55.48:564][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.20-16.55.48:564][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.20-16.55.48:564][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.20-16.55.48:564][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.20-16.55.48:564][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.20-16.55.48:564][397]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.20-16.55.48:564][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.20-16.55.48:564][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.20-16.55.48:564][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.20-16.55.48:564][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.20-16.55.48:564][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.20-16.55.48:565][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.20-16.55.48:574][397]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2023.06.20-16.55.48:574][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.20-16.55.48:574][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.20-16.55.48:574][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.20-16.55.48:574][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.06.20-16.55.48:574][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2023.06.20-16.55.48:575][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.06.20-16.55.48:575][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.06.20-16.55.48:575][397]LogInit: FAudioDevice initialized.
+[2023.06.20-16.55.48:575][397]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2023.06.20-16.55.48:585][397]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.06.20-16.55.48:590][397]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.20-16.55.48:590][397]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.06.20-18.55.48
+[2023.06.20-16.55.48:590][397]LogWorld: Bringing up level for play took: 0.005161
+[2023.06.20-16.55.48:591][397]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.06.20-16.55.48:600][397]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.20-16.55.48:600][397]LogSkeletalMesh: Display: OnRegister[/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Meshes/Terra_MountainForge.Terra_MountainForge]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.06.20-16.55.48:600][397]LogSkeletalMesh: Display: OnRegister[/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Meshes/Terra_MountainForge.Terra_MountainForge]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.06.20-16.55.48:606][397]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1000.000 Y=1810.000 Z=302.013
+[2023.06.20-16.55.48:606][397]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.20-16.55.48:608][397]PIE: Server logged in
+[2023.06.20-16.55.48:608][397]PIE: Play in editor total start time 0,079 seconds.
+[2023.06.20-16.55.50:880][637]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.06.20-16.55.50:880][637]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.06.20-16.56.00:069][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-16.56.00:069][734]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.06.20-16.56.00:069][734]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-16.56.00:072][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-16.56.00:084][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.20-16.56.00:085][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-16.56.00:092][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.20-16.56.00:093][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.20-16.56.00:094][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.20-16.56.00:096][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-16.56.00:098][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.06.20-16.56.00:134][736]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.06.20-16.56.08:185][700]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.56.13:923][315]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.56.18:935][830]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.56.29:181][971]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.06.20-16.56.40:806][361]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.06.20-16.56.46:411][ 21]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2023.06.20-16.56.55:173][ 23]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.06.20-16.57.37:578][578]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2023.06.20-16.58.27:627][587]LogTexture: Display: Building textures: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Landscape_UAID_047C1641CB1C2D8E01_2055954031.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.06.20-16.58.27:632][587]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 47903F755061771CE2B825E5499DB603928B409C), compiling. Is special engine material.
